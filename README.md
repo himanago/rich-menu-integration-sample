@@ -1,2 +1,2 @@
 # rich-menu-integration-sample
-XAML Rich Menu Maker ‚Ì C# “‡ƒTƒ“ƒvƒ‹
+XAML Rich Menu Maker ã¨ C# ã®çµ±åˆã‚µãƒ³ãƒ—ãƒ«
